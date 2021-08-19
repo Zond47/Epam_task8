@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.rd.java.basic.practice8.Part2StudentTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-05-16T18:37:31" hostname="DESKTOP-FI045EJ" time="0.381">
+  <properties/>
+  <testcase name="testInsertNullTeam" classname="com.epam.rd.java.basic.practice8.Part2StudentTest" time="0.021"/>
+  <testcase name="testTeamHascode" classname="com.epam.rd.java.basic.practice8.Part2StudentTest" time="0.0"/>
+  <testcase name="testFindAllTeams" classname="com.epam.rd.java.basic.practice8.Part2StudentTest" time="0.274"/>
+  <testcase name="testShouldModifyTeamsId" classname="com.epam.rd.java.basic.practice8.Part2StudentTest" time="0.033"/>
+  <testcase name="testTeamToString" classname="com.epam.rd.java.basic.practice8.Part2StudentTest" time="0.0"/>
+  <testcase name="testTeamName" classname="com.epam.rd.java.basic.practice8.Part2StudentTest" time="0.0"/>
+  <testcase name="testInsertTeam" classname="com.epam.rd.java.basic.practice8.Part2StudentTest" time="0.049"/>
+  <testcase name="testTeamEquals" classname="com.epam.rd.java.basic.practice8.Part2StudentTest" time="0.0"/>
+  <testcase name="testTeamId" classname="com.epam.rd.java.basic.practice8.Part2StudentTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

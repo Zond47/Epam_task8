@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.rd.java.basic.practice8.Part1StudentTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-05-16T18:37:30" hostname="DESKTOP-FI045EJ" time="0.879">
+  <properties/>
+  <testcase name="testInsertNullUser" classname="com.epam.rd.java.basic.practice8.Part1StudentTest" time="0.257"/>
+  <testcase name="testUserToString" classname="com.epam.rd.java.basic.practice8.Part1StudentTest" time="0.001"/>
+  <testcase name="testFindAllUsers" classname="com.epam.rd.java.basic.practice8.Part1StudentTest" time="0.452"/>
+  <testcase name="testUserHascode" classname="com.epam.rd.java.basic.practice8.Part1StudentTest" time="0.0"/>
+  <testcase name="testShouldModifyUsersId" classname="com.epam.rd.java.basic.practice8.Part1StudentTest" time="0.116"/>
+  <testcase name="testInsertUser" classname="com.epam.rd.java.basic.practice8.Part1StudentTest" time="0.047"/>
+  <testcase name="testUserEquals" classname="com.epam.rd.java.basic.practice8.Part1StudentTest" time="0.0"/>
+  <testcase name="testUserLogin" classname="com.epam.rd.java.basic.practice8.Part1StudentTest" time="0.0"/>
+  <testcase name="testUserId" classname="com.epam.rd.java.basic.practice8.Part1StudentTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

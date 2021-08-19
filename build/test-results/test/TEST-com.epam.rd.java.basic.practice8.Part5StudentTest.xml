@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.rd.java.basic.practice8.Part5StudentTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-05-16T18:37:32" hostname="DESKTOP-FI045EJ" time="0.03">
+  <properties/>
+  <testcase name="testDemo" classname="com.epam.rd.java.basic.practice8.Part5StudentTest" time="0.012"/>
+  <testcase name="testUpdateTeam" classname="com.epam.rd.java.basic.practice8.Part5StudentTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
